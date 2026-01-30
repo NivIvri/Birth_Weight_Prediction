@@ -20,7 +20,14 @@ The system follows a Client–Server MVC architecture:
 - **Model (ML Engine)**: Python  
   Implements a Random Forest regression model for fetal birth weight prediction.
 
+System Architecture – Data Flow Diagram
+The following diagram illustrates the end-to-end data flow of the BW Predict system,
+from user input through prediction generation and data persistence.
+
+<img width="968" height="195" alt="image" src="https://github.com/user-attachments/assets/68e7d99d-63f0-4638-a02f-befe536f2a6f" />
+
 ---
+
 
 ## Machine Learning Approach
 - **Algorithm**: Random Forest Regressor  
